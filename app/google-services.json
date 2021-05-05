@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633057331594",
+    "project_id": "apilabassigment",
+    "storage_bucket": "apilabassigment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633057331594:android:6bc8bd8b33b9d50d742073",
+        "android_client_info": {
+          "package_name": "com.example.apilabassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633057331594-msl54alt2uqsdlq2fi3qa17nugrsckbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVMrgcCpEr1ZQF3jV-xKfjuMh7CWovDUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633057331594-msl54alt2uqsdlq2fi3qa17nugrsckbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
